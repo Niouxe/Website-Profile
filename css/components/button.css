@@ -1,0 +1,14 @@
+.btn-purple {
+	background-color: rgb(61, 48, 162);
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight : bold;
+	font-family:"Montserrat", sans-serif;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2)
+}
+
+.btn-purple:hover {
+	color : black;
+	background-color:white; 
+}
